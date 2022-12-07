@@ -22,3 +22,5 @@ Add your API Key to bashrc
     
 ## Usage/Examples
 
+https://user-images.githubusercontent.com/49042076/206057938-19754fc5-d874-400c-b62a-15a8025119b4.mp4
+
